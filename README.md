@@ -286,10 +286,11 @@
 - [5] **[Arxiv'24] |** A Survey of Multimodal Composite Editing and Retrieval. [[Paper]](https://arxiv.org/abs/2409.05405)
 
 ### Emerging Datasets      
-- [1] **[Arxiv'26] |** FashionMV: Product-Level Composed Image Retrieval with Multi-View Fashion Data. [[Paper]](https://arxiv.org/abs/2604.10297)  
-- [2] **[Arxiv'25] |** good4cir: Generating Detailed Synthetic Captions for Composed Image Retrieval. [[Paper]](https://arxiv.org/pdf/2503.17871)    
-- [3] **[Arxiv'24] |** EUFCC-CIR: a Composed Image Retrieval Dataset for GLAM Collections. [[Paper]](https://arxiv.org/pdf/2410.01536v2)
-- [4] **[Arxiv'24] |** ChatSearch: a Dataset and a Generative Retrieval Model for General Conversational Image Retrieval. [[Paper]](https://arxiv.org/pdf/2410.18715)   
+- [1] **[SIGIR'26] |** A Sketch+Text Composed Image Retrieval Dataset for Thangka. [[Paper]](https://arxiv.org/pdf/2602.08411)     
+- [2] **[Arxiv'26] |** FashionMV: Product-Level Composed Image Retrieval with Multi-View Fashion Data. [[Paper]](https://arxiv.org/abs/2604.10297)    
+- [3] **[CVPRW'25] |** good4cir: Generating Detailed Synthetic Captions for Composed Image Retrieval. [[Paper]](https://arxiv.org/pdf/2503.17871)    
+- [4] **[Pattern Recognition'25] |** ChatSearch: a Dataset and a Generative Retrieval Model for General Conversational Image Retrieval. [[Paper]](https://arxiv.org/pdf/2410.18715)      
+- [5] **[Arxiv'24] |** EUFCC-CIR: a Composed Image Retrieval Dataset for GLAM Collections. [[Paper]](https://arxiv.org/pdf/2410.01536v2)    
 
 ## 10. Dataset statistics<a id="section10"></a>
 | **Dataset**                                      | **Modalities**    | **Images Scale** | **Triplets Scale** | **Type**           | **Link**                    | **Domain** |
