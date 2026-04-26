@@ -245,6 +245,7 @@
 ## 7. COVR<a id="section7"></a>   
 ### 2026    
 - [1] **[AAAI'26] |** ReTrack: Evidence-Driven Dual-Stream Directional Anchor Calibration Network for Composed Video Retrieval. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/39507)    
+- [2] **[ICLR'26] |** OmniCVR: A Benchmark for Omni-Composed Video Retrieval with Vision, Audio, and Text. [[Paper]](https://iclr.cc/virtual/2026/poster/10010075)     
 
 ### 2025
 - [1] **[CVPR'25] |** Localizing Events in Videos with Multimodal Queries. [[Paper]](https://arxiv.org/abs/2406.10079)   
